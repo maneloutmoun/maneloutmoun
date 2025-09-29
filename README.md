@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Manal 👋  
 
-<!--
-**maneloutmoun/maneloutmoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th-year Computer Science student  
+💻 Interested in Networking, Cybersecurity, and ERP systems (Odoo)  
+🌱 Currently learning GitHub workflows and strengthening my technical skills 
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools  
+- Networking & Security fundamentals  
+- ERP systems (Odoo)  
+- Programming: Python, Java, SQL, C, Html/CSS  
+- Tools: Git, GitHub,VS Code, Pycharm, Packet Tracer
+  
+## 📌 Projects & Learning  
+- [GitHub Skills Courses](https://skills.github.com/) – hands-on learning with GitHub  
+- Academic and personal projects (check pinned repos below)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact  
+- Email: mm_outmoune@esi.dz
