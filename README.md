@@ -2,7 +2,7 @@
 
 🎓 4th-year Computer Science student  
 💻 Interested in Networking, Cybersecurity, and ERP systems (Odoo)  
-🌱 Currently learning GitHub workflows and strengthening my technical skills 
+🌱 Currently learning GitHub  and strengthening my technical skills 
 
 ## 🛠️ Skills & Tools  
 - Networking & Security fundamentals  
