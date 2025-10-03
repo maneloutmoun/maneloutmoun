@@ -11,8 +11,7 @@
 - Tools: Git, GitHub,VS Code, Pycharm, Packet Tracer
   
 ## 📌 Projects & Learning  
-- [GitHub Skills Courses](https://skills.github.com/) – hands-on learning with GitHub  
-- Academic and personal projects (check pinned repos below)  
+- Academic and personal projects (check repos below)  
 
 ## 📫 Contact  
 - Email: mm_outmoune@esi.dz
