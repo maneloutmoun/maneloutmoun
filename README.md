@@ -1,6 +1,6 @@
 # Hi, I'm Manal 👋  
 
-🎓 4th-year Computer Science student  
+🎓 5th-year Computer Science student  
 💻 Interested in Networking, Cybersecurity, IoT and ICSystems ,and ERP systems (Odoo)  
 🌱 Currently learning and strengthening my technical skills 
 
